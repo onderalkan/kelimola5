@@ -1,2 +1,2 @@
-# wordle_game
-Web [Wordle Game Clone](https://www.powerlanguage.co.uk/wordle/) but using Turkish alphabet and words
+#Kelimola Oyunu (3 Harfli Kelimeler) 
+https://htmlpreview.github.io/?https://github.com/onderalkan/kelimola3/blob/main/index.html
